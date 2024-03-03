@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "@babel/preset-typescript": "^7.21.0",
-    "@feltjs/eslint-config": "^0.2.1",
+    "@ryanatkn/eslint-config": "0.1.0",
     "@sveltejs/kit": "^1.15.1",
     "@tsconfig/svelte": "^3.0.0",
     "@typechain/web3-v1": "^6.0.2",
